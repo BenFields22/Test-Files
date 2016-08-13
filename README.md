@@ -1,6 +1,6 @@
 #_README Structure_
 
-##READMEs generally follow one format in order to immediately orient developers to the most important aspects of your project.
+READMEs generally follow one format in order to immediately orient developers to the most important aspects of your project.
 
 Project name: Your project’s name is the first thing people will see upon scrolling down to your README, and is included upon creation of your README file.
 
